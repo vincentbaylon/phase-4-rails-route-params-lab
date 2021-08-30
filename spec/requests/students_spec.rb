@@ -47,7 +47,7 @@ RSpec.describe "Students", type: :request do
       ])
     end
 
-    ## BONUS: un-comment out the code below to run the bonus test
+    # # BONUS: un-comment out the code below to run the bonus test
 
     # context 'with query params' do
     #   it 'returns students whose first or last name matches the query' do
